@@ -10,8 +10,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Data from tests for IGOR.vi" Type="VI" URL="../Data from tests for IGOR.vi"/>
 		<Item Name="SA40144C.20201219 Data Analysis.vi" Type="VI" URL="../SA40144C.20201219 Data Analysis.vi"/>
 		<Item Name="SA40144C.20201230 Data Analysis.vi" Type="VI" URL="../SA40144C.20201230 Data Analysis.vi"/>
+		<Item Name="SA40144C.20210105.vi" Type="VI" URL="../SA40144C.20210105.vi"/>
+		<Item Name="SA40144D.20210124 BG conductance.vi" Type="VI" URL="../SA40144D.20210124 BG conductance.vi"/>
+		<Item Name="SA40144D.20210128 Device vs BG.vi" Type="VI" URL="../SA40144D.20210128 Device vs BG.vi"/>
+		<Item Name="SA40144D.20210309 Data Analysis.vi" Type="VI" URL="../SA40144D.20210309 Data Analysis.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
