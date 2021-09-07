@@ -10,13 +10,31 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Activation Energies for 20201230.vi" Type="VI" URL="../Activation Energies for 20201230.vi"/>
 		<Item Name="Data from tests for IGOR.vi" Type="VI" URL="../Data from tests for IGOR.vi"/>
+		<Item Name="Fast Decaying Nanowries.vi" Type="VI" URL="../Fast Decaying Nanowries.vi"/>
+		<Item Name="In Temp Range" Type="VI" URL="../In Temp Range"/>
+		<Item Name="Read Dictionary.vi" Type="VI" URL="../Read Dictionary.vi"/>
+		<Item Name="SA40060.20210626 BG.vi" Type="VI" URL="../SA40060.20210626 BG.vi"/>
+		<Item Name="SA40060I.20210709 BG.vi" Type="VI" URL="../SA40060I.20210709 BG.vi"/>
+		<Item Name="SA40060I.20210723 BG in vacuum.vi" Type="VI" URL="../SA40060I.20210723 BG in vacuum.vi"/>
 		<Item Name="SA40144C.20201219 Data Analysis.vi" Type="VI" URL="../SA40144C.20201219 Data Analysis.vi"/>
 		<Item Name="SA40144C.20201230 Data Analysis.vi" Type="VI" URL="../SA40144C.20201230 Data Analysis.vi"/>
 		<Item Name="SA40144C.20210105.vi" Type="VI" URL="../SA40144C.20210105.vi"/>
 		<Item Name="SA40144D.20210124 BG conductance.vi" Type="VI" URL="../SA40144D.20210124 BG conductance.vi"/>
 		<Item Name="SA40144D.20210128 Device vs BG.vi" Type="VI" URL="../SA40144D.20210128 Device vs BG.vi"/>
 		<Item Name="SA40144D.20210309 Data Analysis.vi" Type="VI" URL="../SA40144D.20210309 Data Analysis.vi"/>
+		<Item Name="SA40144D.20210323 Device vs BG.vi" Type="VI" URL="/G/My Drive/ansom/Data/PPMS 2/SA40144D.20210309/00 - Thermal Decay/SA40144D.20210323 Device vs BG.vi"/>
+		<Item Name="SA40144D.20210528 Devices + BG.vi" Type="VI" URL="../SA40144D.20210528 Devices + BG.vi"/>
+		<Item Name="SA40144D.20210601 Devices + BG.vi" Type="VI" URL="../SA40144D.20210601 Devices + BG.vi"/>
+		<Item Name="SA40144D.20210624 1D only.vi" Type="VI" URL="../SA40144D.20210624 1D only.vi"/>
+		<Item Name="SA40144D.20210630 1D only.vi" Type="VI" URL="../SA40144D.20210630 1D only.vi"/>
+		<Item Name="SA40144D.20210706 1D only.vi" Type="VI" URL="../SA40144D.20210706 1D only.vi"/>
+		<Item Name="SA40144D.20210720 vacuum 1D only.vi" Type="VI" URL="../SA40144D.20210720 vacuum 1D only.vi"/>
+		<Item Name="SA40144D.20210728 2D in vacuum.vi" Type="VI" URL="../SA40144D.20210728 2D in vacuum.vi"/>
+		<Item Name="SA40144D.20210825 1D+2D.vi" Type="VI" URL="../SA40144D.20210825 1D+2D.vi"/>
+		<Item Name="SA40144E.20210805 1D + 2D vacuum.vi" Type="VI" URL="../SA40144E.20210805 1D + 2D vacuum.vi"/>
+		<Item Name="SA40144E.20210819 1D + 2D vacuum.vi" Type="VI" URL="../SA40144E.20210819 1D + 2D vacuum.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
