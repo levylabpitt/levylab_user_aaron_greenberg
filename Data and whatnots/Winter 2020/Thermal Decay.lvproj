@@ -21,6 +21,7 @@
 		<Item Name="SA40144C.20201219 Data Analysis.vi" Type="VI" URL="../SA40144C.20201219 Data Analysis.vi"/>
 		<Item Name="SA40144C.20201230 Data Analysis.vi" Type="VI" URL="../SA40144C.20201230 Data Analysis.vi"/>
 		<Item Name="SA40144C.20210105.vi" Type="VI" URL="../SA40144C.20210105.vi"/>
+		<Item Name="SA40144C.20210908 Data Analysis.vi" Type="VI" URL="../SA40144C.20210908 Data Analysis.vi"/>
 		<Item Name="SA40144D.20210124 BG conductance.vi" Type="VI" URL="../SA40144D.20210124 BG conductance.vi"/>
 		<Item Name="SA40144D.20210128 Device vs BG.vi" Type="VI" URL="../SA40144D.20210128 Device vs BG.vi"/>
 		<Item Name="SA40144D.20210309 Data Analysis.vi" Type="VI" URL="../SA40144D.20210309 Data Analysis.vi"/>
@@ -35,6 +36,7 @@
 		<Item Name="SA40144D.20210825 1D+2D.vi" Type="VI" URL="../SA40144D.20210825 1D+2D.vi"/>
 		<Item Name="SA40144E.20210805 1D + 2D vacuum.vi" Type="VI" URL="../SA40144E.20210805 1D + 2D vacuum.vi"/>
 		<Item Name="SA40144E.20210819 1D + 2D vacuum.vi" Type="VI" URL="../SA40144E.20210819 1D + 2D vacuum.vi"/>
+		<Item Name="SA40289A.20211015 Data Analysis.vi" Type="VI" URL="../SA40289A.20211015 Data Analysis.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
