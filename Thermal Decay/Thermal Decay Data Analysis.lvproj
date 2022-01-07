@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="20190611.SA40600G 1D Only in Air.vi" Type="VI" URL="../20190611.SA40600G 1D Only in Air.vi"/>
+		<Item Name="20211015.SA20289A 1D+2D in Vacuum.vi" Type="VI" URL="../20211015.SA20289A 1D+2D in Vacuum.vi"/>
 		<Item Name="Read Dictionary.vi" Type="VI" URL="../Utils/Read Dictionary.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
