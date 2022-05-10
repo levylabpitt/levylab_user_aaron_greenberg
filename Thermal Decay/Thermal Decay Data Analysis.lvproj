@@ -23,6 +23,10 @@
 		<Item Name="20210720.SA40144D 1D in Vacuum.vi" Type="VI" URL="../20210720.SA40144D 1D in Vacuum.vi"/>
 		<Item Name="20210728.SA40144D 2D in Vacuum.vi" Type="VI" URL="../20210728.SA40144D 2D in Vacuum.vi"/>
 		<Item Name="20211015.SA20289A 1D+2D in Vacuum.vi" Type="VI" URL="../20211015.SA20289A 1D+2D in Vacuum.vi"/>
+		<Item Name="20220216.SA40289A 1D+2D in Vacuum Decreasing.vi" Type="VI" URL="../20220216.SA40289A 1D+2D in Vacuum Decreasing.vi"/>
+		<Item Name="20220401.SA40289B 1D+2D in Air Dec.vi" Type="VI" URL="../20220401.SA40289B 1D+2D in Air Dec.vi"/>
+		<Item Name="20220422.SA40289B 1D+2D in Vac Inc.vi" Type="VI" URL="../20220422.SA40289B 1D+2D in Vac Inc.vi"/>
+		<Item Name="20220505.SA40289B 1D+2D in Air Dec.vi" Type="VI" URL="../20220505.SA40289B 1D+2D in Air Dec.vi"/>
 		<Item Name="Read Dictionary.vi" Type="VI" URL="../Utils/Read Dictionary.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
