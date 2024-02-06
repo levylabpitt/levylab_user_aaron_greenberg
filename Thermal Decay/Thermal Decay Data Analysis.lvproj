@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -10,23 +11,28 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="2021020.SA40144D 1D in Vacuum.vi" Type="VI" URL="../2021020.SA40144D 1D in Vacuum.vi"/>
+		<Item Name="Unused for paper" Type="Folder">
+			<Item Name="2021020.SA40144D 1D in Vacuum.vi" Type="VI" URL="../2021020.SA40144D 1D in Vacuum.vi"/>
+			<Item Name="20190618.SA40060G 1D Only in Air.vi" Type="VI" URL="../20190618.SA40060G 1D Only in Air.vi"/>
+			<Item Name="20190729.SA03083J 1D Only in Air Decreasing Temperature.vi" Type="VI" URL="../20190729.SA03083J 1D Only in Air Decreasing Temperature.vi"/>
+			<Item Name="20190729.SA03083J 1D Only in Air Increasing Temperature.vi" Type="VI" URL="../20190729.SA03083J 1D Only in Air Increasing Temperature.vi"/>
+			<Item Name="20201219.SA40144C 1D+2D in Air.vi" Type="VI" URL="../20201219.SA40144C 1D+2D in Air.vi"/>
+			<Item Name="20201230.SA40144C 1D+2D in Air.vi" Type="VI" URL="../20201230.SA40144C 1D+2D in Air.vi"/>
+			<Item Name="20210309.SA40144D 1D+2D in Vacuum.vi" Type="VI" URL="../20210309.SA40144D 1D+2D in Vacuum.vi"/>
+			<Item Name="20210624.SA40144D 1D only in Vacuum.vi" Type="VI" URL="../20210624.SA40144D 1D only in Vacuum.vi"/>
+			<Item Name="20210706.SA40144D 1D in Vacuum.vi" Type="VI" URL="../20210706.SA40144D 1D in Vacuum.vi"/>
+			<Item Name="20210720.SA40144D 1D in Vacuum.vi" Type="VI" URL="../20210720.SA40144D 1D in Vacuum.vi"/>
+			<Item Name="20210728.SA40144D 2D in Vacuum.vi" Type="VI" URL="../20210728.SA40144D 2D in Vacuum.vi"/>
+			<Item Name="20211015.SA20289A 1D+2D in Vacuum.vi" Type="VI" URL="../20211015.SA20289A 1D+2D in Vacuum.vi"/>
+			<Item Name="20220422.SA40289B 1D+2D in Vac Inc.vi" Type="VI" URL="../20220422.SA40289B 1D+2D in Vac Inc.vi"/>
+			<Item Name="20220401.SA40289B 1D+2D in Air Dec.vi" Type="VI" URL="../20220401.SA40289B 1D+2D in Air Dec.vi"/>
+			<Item Name="20220505.SA40289B 1D+2D in Air Dec.vi" Type="VI" URL="../20220505.SA40289B 1D+2D in Air Dec.vi"/>
+			<Item Name="20220608.SA40289C 1D+2D in Air Dec.vi" Type="VI" URL="../20220608.SA40289C 1D+2D in Air Dec.vi"/>
+			<Item Name="20220530.SA40289C 1D+2D in Vac Inc.vi" Type="VI" URL="../20220530.SA40289C 1D+2D in Vac Inc.vi"/>
+		</Item>
 		<Item Name="20190611.SA40060G 1D Only in Air.vi" Type="VI" URL="../20190611.SA40060G 1D Only in Air.vi"/>
-		<Item Name="20190618.SA40060G 1D Only in Air.vi" Type="VI" URL="../20190618.SA40060G 1D Only in Air.vi"/>
-		<Item Name="20190729.SA03083J 1D Only in Air Decreasing Temperature.vi" Type="VI" URL="../20190729.SA03083J 1D Only in Air Decreasing Temperature.vi"/>
-		<Item Name="20190729.SA03083J 1D Only in Air Increasing Temperature.vi" Type="VI" URL="../20190729.SA03083J 1D Only in Air Increasing Temperature.vi"/>
-		<Item Name="20201219.SA40144C 1D+2D in Air.vi" Type="VI" URL="../20201219.SA40144C 1D+2D in Air.vi"/>
-		<Item Name="20201230.SA40144C 1D+2D in Air.vi" Type="VI" URL="../20201230.SA40144C 1D+2D in Air.vi"/>
-		<Item Name="20210309.SA40144D 1D+2D in Vacuum.vi" Type="VI" URL="../20210309.SA40144D 1D+2D in Vacuum.vi"/>
-		<Item Name="20210624.SA40144D 1D only in Vacuum.vi" Type="VI" URL="../20210624.SA40144D 1D only in Vacuum.vi"/>
-		<Item Name="20210706.SA40144D 1D in Vacuum.vi" Type="VI" URL="../20210706.SA40144D 1D in Vacuum.vi"/>
-		<Item Name="20210720.SA40144D 1D in Vacuum.vi" Type="VI" URL="../20210720.SA40144D 1D in Vacuum.vi"/>
-		<Item Name="20210728.SA40144D 2D in Vacuum.vi" Type="VI" URL="../20210728.SA40144D 2D in Vacuum.vi"/>
-		<Item Name="20211015.SA20289A 1D+2D in Vacuum.vi" Type="VI" URL="../20211015.SA20289A 1D+2D in Vacuum.vi"/>
 		<Item Name="20220216.SA40289A 1D+2D in Vacuum Decreasing.vi" Type="VI" URL="../20220216.SA40289A 1D+2D in Vacuum Decreasing.vi"/>
-		<Item Name="20220401.SA40289B 1D+2D in Air Dec.vi" Type="VI" URL="../20220401.SA40289B 1D+2D in Air Dec.vi"/>
-		<Item Name="20220422.SA40289B 1D+2D in Vac Inc.vi" Type="VI" URL="../20220422.SA40289B 1D+2D in Vac Inc.vi"/>
-		<Item Name="20220505.SA40289B 1D+2D in Air Dec.vi" Type="VI" URL="../20220505.SA40289B 1D+2D in Air Dec.vi"/>
+		<Item Name="20220622.SA40289C 1D+2D in Air Dec.vi" Type="VI" URL="../20220622.SA40289C 1D+2D in Air Dec.vi"/>
 		<Item Name="Read Dictionary.vi" Type="VI" URL="../Utils/Read Dictionary.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
